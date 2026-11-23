@@ -1,0 +1,2 @@
+# PySpark and Spark SQL are provided by the Databricks Runtime.
+# No additional local dependencies are currently required.
