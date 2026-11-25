@@ -1,4 +1,5 @@
 
+```mermaid
 erDiagram
     DIM_MATCH ||--o{ FACT_BALL_BY_BALL : "match_sk"
     DIM_MATCH ||--o{ FACT_PLAYER_MATCH : "match_sk"
@@ -58,3 +59,4 @@ erDiagram
         int age_as_on_match
         boolean is_manofthematch
     }
+```

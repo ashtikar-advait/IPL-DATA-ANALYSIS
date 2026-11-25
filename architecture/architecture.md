@@ -1,3 +1,5 @@
+
+```mermaid
 flowchart TB
     A["IPL Historical Dataset<br/>2008–2017 CSV Files"]
 
@@ -60,3 +62,4 @@ flowchart TB
     style G fill:#fef3c7,stroke:#d97706,color:#78350f
     style SV fill:#ede9fe,stroke:#7c3aed,color:#3b0764
     style P fill:#e5e7eb,stroke:#6b7280,color:#111827
+```
